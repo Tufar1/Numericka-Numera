@@ -1,0 +1,18 @@
+0>> 41,18467,6334,26500,19169,
+pole cislo 0 se protocilo tolikrat: 46 trvalo to tolik milisekund: 0
+0>> 41,6334,18467,19169,26500,
+1>> 467,3728,14893,24648,22483,
+pole cislo 1 se protocilo tolikrat: 67 trvalo to tolik milisekund: 0
+1>> 467,3728,14893,22483,24648,
+2>> 1018,28464,21119,23152,2800,
+pole cislo 2 se protocilo tolikrat: 24 trvalo to tolik milisekund: 0
+2>> 1018,2800,21119,23152,28464,
+0>> 41,18467,6334,26500,19169,
+pole cislo 0 se protocilo tolikrat: 46 trvalo to tolik milisekund: 0
+0>> 41,6334,18467,19169,26500,
+1>> 467,3728,14893,24648,22483,
+pole cislo 1 se protocilo tolikrat: 67 trvalo to tolik milisekund: 0
+1>> 467,3728,14893,22483,24648,
+2>> 1018,28464,21119,23152,2800,
+pole cislo 2 se protocilo tolikrat: 24 trvalo to tolik milisekund: 0
+2>> 1018,2800,21119,23152,28464,
